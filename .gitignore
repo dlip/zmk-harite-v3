@@ -1,1 +1,9 @@
+/.west
 /result
+/build
+/modules
+/zephyr
+/zmk
+/zmk-analog-input-driver
+/zmk-keyboard-harite-v3
+/zmk-pmw3610-driver
