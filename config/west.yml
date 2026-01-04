@@ -17,7 +17,7 @@ manifest:
       revision: 3a32403349d52f633811db1887a46aa3a88a789d  # main
     - name: zmk-pmw3610-driver
       remote: badjeff
-      revision: 77635bad95097e2ed6fc16624622cff025a0e33b  # main
+      revision: a1a0f35ab6750c8fc72b84ea00add1e5fbaea1e4  # main
     - name: zmk
       remote: dlip
       revision: eeac4c3a53e6945281d5e2bb189c94b2c0bbce45  # main
