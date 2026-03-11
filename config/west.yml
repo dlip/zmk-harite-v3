@@ -20,7 +20,7 @@ manifest:
       revision: a1a0f35ab6750c8fc72b84ea00add1e5fbaea1e4  # main
     - name: zmk
       remote: dlip
-      revision: eeac4c3a53e6945281d5e2bb189c94b2c0bbce45  # main
+      revision: d9a926702a19ca8d7ea973e47bc74554ef94589b  # main
       import: app/west.yml
     - name: zephyr
       remote: zmkfirmware

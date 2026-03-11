@@ -6,6 +6,7 @@
 /cirque-input-module
 /zmk
 /zephyr
+/optional
 /modules
 /.west
 /release
