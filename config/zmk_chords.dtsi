@@ -6,7 +6,7 @@
             layers = <0>; \
         };
 
-        CHORD(c_t, &macro_c_t, 26 33)
+CHORD(c_t, &macro_c_t, 26 33)
 CHORD(s_c_t, &macro_s_c_t, 26 36)
 CHORD(c_a, &macro_c_a, 27 33)
 CHORD(s_c_a, &macro_s_c_a, 27 36)

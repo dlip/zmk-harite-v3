@@ -7,7 +7,7 @@
             bindings = <BINDINGS>; \
         };
 
-        MACRO(c_t, &kp T &kp H &kp E &kp SPC)
+MACRO(c_t, &kp T &kp H &kp E &kp SPC)
 MACRO(s_c_t, &kp LS(T) &kp H &kp E &kp SPC)
 MACRO(c_a, &kp A &kp N &kp D &kp SPC)
 MACRO(s_c_a, &kp LS(A) &kp N &kp D &kp SPC)
