@@ -46,7 +46,7 @@
     };
 
     macros {
-      /* #include "macros.dtsi" */
+      #include "zmk_macros.dtsi"
       steno_tsdz: steno_tsdz {
           compatible = "zmk,behavior-macro";
           label = "steno_tsdz";
@@ -61,7 +61,7 @@
 
     combos {
       compatible = "zmk,combos";
-      /* #include "combos.dtsi" */
+      #include "zmk_chords.dtsi"
       caps {
         timeout-ms = <100>;
         key-positions = <38 39>; // Both shifts
