@@ -11,13 +11,13 @@ manifest:
   projects:
     - name: zmk-analog-input-driver
       remote: badjeff
-      revision: d07aedb66801598c0c278e60565bd8f6ab42f9b2  # main
+      revision: 2684f22ee7e2168d4393f7e63676912210a796fc  # main
     - name: cirque-input-module
       remote: dlip
       revision: 3a32403349d52f633811db1887a46aa3a88a789d  # main
     - name: zmk-pmw3610-driver
       remote: badjeff
-      revision: a1a0f35ab6750c8fc72b84ea00add1e5fbaea1e4  # main
+      revision: 44b4a76b74d293a93cec4ccb7e04cb8d29c10f93  # main
     - name: zmk
       remote: dlip
       revision: d9a926702a19ca8d7ea973e47bc74554ef94589b  # main
